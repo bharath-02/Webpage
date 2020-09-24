@@ -10,7 +10,9 @@ body {
 	border:0;
 } 
 #logo-img {
-	background: url('images/logo-large.png') no-repeat;
+	background: url('images/veg-logo-large.jpg') no-repeat;
+	border: 2px solid black;
+	border-radius: 50%;
 	width:150px;
 	height:150px;
 	margin:10px,10px,10px,0; 
@@ -198,7 +200,7 @@ h3 .item-title {
 }
 @media (min-width:992px) and (max-width:1199px) {
 	#logo-img {
-		background : url('images/logo-medium.png') no-repeat;
+		background : url('images/veg-logo-medium.jpg') no-repeat;
 		width:100px;
 		height:100px;
 		margin:5px 5px 5px 0;
